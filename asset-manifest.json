@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/aarveeinfo-employee-details/static/css/main.6f35c5cc.css",
+    "main.css": "/aarveeinfo-employee-details/static/css/main.087bd81c.css",
     "main.js": "/aarveeinfo-employee-details/static/js/main.40c9619f.js",
     "static/js/787.4e208b50.chunk.js": "/aarveeinfo-employee-details/static/js/787.4e208b50.chunk.js",
     "index.html": "/aarveeinfo-employee-details/index.html",
-    "main.6f35c5cc.css.map": "/aarveeinfo-employee-details/static/css/main.6f35c5cc.css.map",
+    "main.087bd81c.css.map": "/aarveeinfo-employee-details/static/css/main.087bd81c.css.map",
     "main.40c9619f.js.map": "/aarveeinfo-employee-details/static/js/main.40c9619f.js.map",
     "787.4e208b50.chunk.js.map": "/aarveeinfo-employee-details/static/js/787.4e208b50.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6f35c5cc.css",
+    "static/css/main.087bd81c.css",
     "static/js/main.40c9619f.js"
   ]
 }
